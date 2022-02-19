@@ -1,0 +1,8 @@
+{
+"name":"Diamond",
+"ticker":"PIVT",
+"discordId":"920066861834596383",
+"pool-list":"false",
+"poolMetaData":"https://github.com/takayamatadahiko/cardano/blob/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/takayamatadahiko/cardano/main/poolMetaData.json"
+}
